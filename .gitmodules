@@ -3,13 +3,13 @@
 # #1654).
 [submodule "binutils"]
 	path = binutils
-	url = https://github.com/bminor/binutils-gdb.git
-	branch = binutils-2_45-branch
+	url = https://github.com/gtagliavini//binutils-gdb.git
+	branch = zclli-support
 	shallow = true
 [submodule "gcc"]
 	path = gcc
-	url = https://github.com/gcc-mirror/gcc.git
-	branch = releases/gcc-15
+	url = https://github.com/gtagliavini/gcc.git
+	branch = zclli-support
 	shallow = true
 [submodule "glibc"]
 	path = glibc
